@@ -1,6 +1,6 @@
 
 ![](Leo.gif)
 
-![](demo_menu_duoc.gif)
+![](Demo_menu_duoc.gif)
 
 ![](integracion_mercado_pago.gif)
