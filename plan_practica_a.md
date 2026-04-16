@@ -16,7 +16,7 @@ Además, tendrás una “capa transversal”:
 - **Testing con pytest** (tests unitarios y de integración, mocks, cobertura).
 - **Type hints + mypy** en todos, con más rigor en el 2 y 3.
 
-Para APIs públicas y datasets:
+Para APIs públicas y datasets: (https://github.com/r-spacex/SpaceX-API - https://www.algolia.com/developers/code-exchange/hacker-news - https://open-meteo.com/en/docs)
 
 - Listas generales de APIs gratuitas: repositorios `public-apis` y `public-api-lists` (bastante usados para side projects y ejemplos).   
 - APIs concretas que usaremos:  
